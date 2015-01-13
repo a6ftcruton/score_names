@@ -1,4 +1,4 @@
-### Assume that every letter is worth some amount of points based on it's order in the alphabet.
+##### Assume that every letter is worth some amount of points based on it's order in the alphabet.
 ### If a name's score is determined by multiplying the value of each letter in the name, determine which name has the highest value.
 
 #####A = 1, Z = 26
